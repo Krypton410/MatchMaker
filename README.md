@@ -1,4 +1,4 @@
 ## MatchMaker+
 
 **Mobile Application app using Firebase**
-Shoutout to [Diolor](http://handlebarsjs.com/) for the Swipecards
+Shoutout to [Diolor](https://github.com/Diolor/Swipecards) for the Swipecards
